@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sayali Birthday</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="string_1">Sayali Kulkarni is an ambitious, beautiful &amp; dynamic girl from the city of Pune, Maharashtra. ​
+\n\nThe app mainly targets on studying &amp; explaining Sayali\'s qualities which inspires others to follow the well known phenomenon of learning, growing &amp; repeating. ​
+\n\nThis document consists the functional flow of some of the core and important features of the Sayali Kulkarni.​</string>
+
+    <string name="string_2"><u>Frontend</u> - Beauty, Cuteness &amp; Sound Communication​
+        \n\n<u>Backend</u> - Caring, Thoughtful, Hard Working &amp; Futuristic vision​
+        \n\n<u>API calls</u> - Alertness &amp; Detail Oriented Approach​
+        \n\n<u>Payment Gateway</u> - Eeshana Solutions/ Rahul Kalavar, Mrs. Kulkarni (Sayali's mom)​
+        \n\n<u>Social Network APIs</u> - Baby Addya Pimpale, Mr. &amp; Mrs. Pimpale, Prachi Mohite-Salunkhe, Rahul Kalavar, S. R., Poonam Pakhale, Shital Pimple, Damini Vashistha etc.​</string>
+
+    <string name="word_s"><b><u>S</u></b> is related to her features &amp; functions related to <b><u>Smartness, Superb Understanding</u></b> of <u>Future</u> and <b><u>Subtle Taste of Food &amp; Clothing</u></b></string>
+
+    <string name="word_a"><b><u>A</u></b> is related to her features &amp; functions related to <b>Awareness</b> <u>of things, solution oriented</u> <b>Attitude</b> <u>toward the problems</u> and <b>Aesthetically gifted looks​</b></string>
+
+    <string name="word_y"><b>Y</b> is related to her features &amp; functions related to <b>Youthful</b> <u>excitement</u> &amp; <b>Yogic focus</b> <u>while working (as well as towards her favorite music &amp; watching GOT)</u> ​</string>
+
+    <string name="word_a_2"><b>A</b> is related to her features &amp; functions related to her <b>Accountability</b> <u>towards everything she take in her hands,</u> <b>Alert Actions &amp; Adorable</b> <u>presence</u> ​</string>
+
+    <string name="word_l"><b>L</b> is related to her features &amp; functions related to <b>Lovable personality, Loyalty</b> <u>in friendship</u> &amp; <b><u>Lengths of never ending talks </u></b> ​</string>
+
+    <string name="word_i"><b>I</b> is related to her features &amp; functions related to her <b>Intelligence, Intellectual</b> <u>abilities</u> &amp; her <b>Ideals</b> <u>towards life</u>​</string>
+</resources>
